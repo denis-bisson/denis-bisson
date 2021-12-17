@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My modest home on GitHub.
+
 <!--
 **denis-bisson/denis-bisson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
